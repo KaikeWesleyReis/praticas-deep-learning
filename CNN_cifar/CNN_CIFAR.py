@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-### Classicação do CIFAR-10 usando Convolucional Neural Networks
-# Autor: Kaike
+### Classicação do CIFAR-10 usando Redes convolucionais
+# Autor: Kaike Wesley Reis
 # OBS: Para melhor entendimento veja o notebook referente a esse código
 
 ### Módulos utilizados
