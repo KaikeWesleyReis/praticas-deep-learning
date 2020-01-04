@@ -6,8 +6,8 @@ O **objetivo** deste modelo é prever com a maior acurácia possível a categori
 
 Além disso, o *jupyter notebook* conta com uma explicação teórica a respeito dos modelos de CNN e sua aplicação prática através do ```keras``` em ```tensorflow 2.0```.
 
-## **Requesitos**:
-- A pasta conta com o arquivo de texto ```requirements.txt``` que apresenta todas as dependências utilizadas para criar este modelo (foi desenvolvido em ambiente virtual).
+## **Requisitos**:
+- A pasta conta com o arquivo de texto *requirements.txt* que apresenta todas as dependências utilizadas para criar este modelo (foi desenvolvido em ambiente virtual).
 - Mas caso queira saber de forma geral:
   - ```numpy```
   - ```seaborn```
@@ -15,4 +15,6 @@ Além disso, o *jupyter notebook* conta com uma explicação teórica a respeito
   - ```matplotlib```
   - ```tensorflow #Ver 2.0```
   - ```talos```
+  
+  A versão utilizada do **Python é 3.x**
   
