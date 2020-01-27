@@ -8,8 +8,8 @@ Este repositório possui o intuito de apresentar na língua portuguesa práticas
 
 ## Modelos desenvolvidos
 - :heavy_check_mark: Redes Neurais Convolucionais (CNN) 
-- :soon: Redes Neurais Recorrentes (LSTM/GRU)
-- :x: Redes Neurais para Segmentação de Imagens (RNS)
+- :heavy_check_mark: Redes Neurais Recorrentes - LSTM & GRU (RNN)
+- :soon: Redes Neurais para Segmentação de Imagens (RNS)
 
 
 
