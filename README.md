@@ -1,4 +1,4 @@
-# Práticas & Teorias de Deep Learning em tensorflow 2.0
+# Práticas & Teorias de Deep Learning com tensorflow 2
 
 ![0_yz4OzmTYGW6M-UKV](https://user-images.githubusercontent.com/32513366/71764203-797da800-2ec3-11ea-9eb9-8bdca4f45152.jpg)
 
