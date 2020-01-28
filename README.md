@@ -4,14 +4,23 @@
 
 Este repositório possui o intuito de apresentar na língua portuguesa práticas utilizando o framework ```tensorflow/keras``` para modelos de aprendizado profundo. Além de uma implementação bem comentada, cada *notebook* contém uma explicação teórica a respeito daquele modelo, funcionando assim como uma breve introdução para este conteúdo.
 
-**Motivação**: ausência de conteúdo deste tipo na língua portuguesa.
+**Motivação**: ausência de conteúdos deste tipo na língua portuguesa.
 
 ## Modelos desenvolvidos
 - :heavy_check_mark: Redes Neurais Convolucionais (CNN) 
 - :heavy_check_mark: Redes Neurais Recorrentes - LSTM & GRU (RNN)
 - :soon: Redes Neurais para Segmentação de Imagens (RNS)
 
-
+## **Requisitos**
+- Este repositório conta com o arquivo de texto *requirements.txt* que apresenta todas as dependências utilizadas no ambiente virtual usado.
+- De forma geral, as principais bibliotecas são:
+  - ```numpy```
+  - ```seaborn```
+  - ```pandas```
+  - ```matplotlib```
+  - ```tensorflow #Ver 2.1```
+  - ```talos```
+  
 
 
 
