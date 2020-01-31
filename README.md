@@ -9,7 +9,7 @@ Este repositório possui o intuito de apresentar na língua portuguesa práticas
 ## Modelos desenvolvidos
 - :heavy_check_mark: Redes Neurais Convolucionais (CNN) 
 - :heavy_check_mark: Redes Neurais Recorrentes - LSTM & GRU (RNN)
-- :soon: Redes Neurais para Segmentação de Imagens (RNS)
+- :soon: AutoEnconder (AEC)
 
 ## **Requisitos**
 - Este repositório conta com o arquivo de texto *requirements.txt* que apresenta todas as dependências utilizadas no ambiente virtual usado.
