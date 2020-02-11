@@ -6,7 +6,7 @@ Este repositório possui o intuito de apresentar na língua portuguesa práticas
 
 **Motivação**: ausência de conteúdos deste tipo na língua portuguesa.
 
-## Modelos desenvolvidos
+## **Modelos desenvolvidos**
 - :heavy_check_mark: Redes Neurais Convolucionais (CNN) 
 - :heavy_check_mark: Redes Neurais Recorrentes - LSTM & GRU (RNN)
 - :soon: Generative Adversarial Network (GAN)
@@ -21,6 +21,8 @@ Este repositório possui o intuito de apresentar na língua portuguesa práticas
   - ```tensorflow #Ver 2.1```
   - ```talos```
   
+## **Link para teoria apenas**
+- [Redes Neurais Convolucionais (CNN)](https://www.linkedin.com/pulse/entendendo-melhor-teoria-das-redes-convolucionais-kaike-wesley-reis/)
 
 
 
