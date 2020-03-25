@@ -21,9 +21,3 @@ Este repositório possui o intuito de apresentar na língua portuguesa práticas
   - ```tensorflow #Ver 2.1```
   - ```talos```
   
-## **Link para teoria apenas**
-- [Redes Neurais Convolucionais (CNN)](https://www.linkedin.com/pulse/entendendo-melhor-teoria-das-redes-convolucionais-kaike-wesley-reis/)
-
-
-
-
