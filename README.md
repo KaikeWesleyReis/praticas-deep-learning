@@ -11,13 +11,12 @@ Este repositório possui o intuito de apresentar na língua portuguesa práticas
 - :heavy_check_mark: Redes Neurais Recorrentes - LSTM & GRU (RNN)
 - :soon: Generative Adversarial Network (GAN)
 
+## **Documentações**
+- Manual de dicas na utilização de *Deep Learning* em visão computacional, para isso acesse o wiki deste repositório [aqui](https://github.com/KaikeWesleyReis/praticas-deep-learning/wiki/Manual-de-boas-pr%C3%A1ticas-para-Deep-Learning-em-vis%C3%A3o-computacional).
+
 ## **Requisitos**
-- Este repositório conta com o arquivo de texto *requirements.txt* que apresenta todas as dependências utilizadas no ambiente virtual usado.
-- De forma geral, as principais bibliotecas são:
-  - ```numpy```
-  - ```seaborn```
-  - ```pandas```
-  - ```matplotlib```
-  - ```tensorflow #Ver 2.1```
-  - ```talos```
-  
+De forma geral, as principais bibliotecas são:
+- ```numpy```
+- ```seaborn```
+- ```matplotlib```
+- ```tensorflow #Ver 2.1```
