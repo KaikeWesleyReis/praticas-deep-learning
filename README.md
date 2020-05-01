@@ -6,17 +6,12 @@ Este repositório possui o intuito de apresentar na língua portuguesa práticas
 
 **Motivação**: ausência de conteúdos deste tipo na língua portuguesa.
 
-## **Modelos desenvolvidos**
+## **Modelos desenvolvidos em ordem cronológica**
 - :heavy_check_mark: Redes Neurais Convolucionais (CNN) 
 - :heavy_check_mark: Redes Neurais Recorrentes - LSTM & GRU (RNN)
+- :heavy_check_mark: Segmentação Semântica
+- :soon: Segmentação de Instância
 - :soon: Generative Adversarial Network (GAN)
 
 ## **Documentações**
 - Manual de dicas na utilização de *Deep Learning* em visão computacional, para isso acesse o wiki deste repositório [aqui](https://github.com/KaikeWesleyReis/praticas-deep-learning/wiki/Manual-de-boas-pr%C3%A1ticas-para-Deep-Learning-em-vis%C3%A3o-computacional).
-
-## **Requisitos**
-De forma geral, as principais bibliotecas são:
-- ```numpy```
-- ```seaborn```
-- ```matplotlib```
-- ```tensorflow #Ver 2.1```
