@@ -11,7 +11,6 @@ Este repositório possui o intuito de apresentar na língua portuguesa práticas
 - :heavy_check_mark: Redes Neurais Recorrentes - LSTM & GRU (RNN)
 - :heavy_check_mark: Segmentação Semântica
 - :soon: Generative Adversarial Network (GAN)
-- :soon: Segmentação de Instância
 
 ## **Documentações**
 - Manual de dicas na utilização de *Deep Learning* em visão computacional, para isso acesse o wiki deste repositório [aqui](https://github.com/KaikeWesleyReis/praticas-deep-learning/wiki/Manual-de-boas-pr%C3%A1ticas-para-Deep-Learning-em-vis%C3%A3o-computacional).
