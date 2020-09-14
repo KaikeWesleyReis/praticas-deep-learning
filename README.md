@@ -6,7 +6,7 @@ Este repositório possui o intuito de apresentar na língua portuguesa práticas
 
 **Motivação**: ausência de conteúdos deste tipo na língua portuguesa.
 
-## **Modelos desenvolvidos em ordem cronológica**
+## **Modelos desenvolvidos**
 - :heavy_check_mark: [Redes Neurais Convolucionais (CNN)](https://github.com/KaikeWesleyReis/praticas-deep-learning/tree/master/CNN_cifar)
 - :heavy_check_mark: [Redes Neurais Recorrentes - LSTM & GRU (RNN)](https://github.com/KaikeWesleyReis/praticas-deep-learning/tree/master/RNN_regressaoTemporal)
 - :heavy_check_mark: [Segmentação Semântica](https://github.com/KaikeWesleyReis/praticas-deep-learning/tree/master/SEG_SEMANTICA_oxfordpet)
