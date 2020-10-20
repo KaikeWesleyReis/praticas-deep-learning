@@ -10,7 +10,7 @@ Este repositório possui o intuito de apresentar na língua portuguesa práticas
 - :heavy_check_mark: [Redes Neurais Convolucionais (CNN)](https://github.com/KaikeWesleyReis/praticas-deep-learning/tree/master/CNN_cifar)
 - :heavy_check_mark: [Redes Neurais Recorrentes - LSTM & GRU (RNN)](https://github.com/KaikeWesleyReis/praticas-deep-learning/tree/master/RNN_regressaoTemporal)
 - :heavy_check_mark: [Segmentação Semântica](https://github.com/KaikeWesleyReis/praticas-deep-learning/tree/master/SEG_SEMANTICA_oxfordpet)
-- :soon: Fully Connected Networks (FC)
+- :heavy_check_mark: [Fully Connected Networks (FC)](https://github.com/KaikeWesleyReis/praticas-deep-learning/tree/master/FC_tabularClassificacao)
 - :soon: Generative Adversarial Network (GAN)
 
 ## **Documentações**
