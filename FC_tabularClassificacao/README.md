@@ -7,7 +7,11 @@ O **objetivo** deste notebook é apresentar uma aplicação prática para o prim
 - Avaliação de resultados de desempenho
 - Sobreajuste de modelos
 
-O *notebook* contém todo o aprendizado mencionado usando ```keras``` em ```tensorflow 2.0```.
+Adicionado na segunda versão `v2`:
+- Problema de *Data Hungry* nos modelos de DL
+- Comparação de resultados com modelos mais clássicos
+
+O *notebook* contém todo o aprendizado mencionado usando `keras` em `tensorflow 2.0`. Modelos clássicos foram construídos através do `sklearn`
 
 ![dropoutAnimation](https://user-images.githubusercontent.com/32513366/96616112-8e072180-12d8-11eb-8b80-a3f0be3baf31.gif)
 
