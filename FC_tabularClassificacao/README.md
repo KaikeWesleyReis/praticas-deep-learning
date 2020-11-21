@@ -6,10 +6,8 @@ O **objetivo** deste notebook é apresentar uma aplicação prática para o prim
 - Construção de Redes FC
 - Avaliação de resultados de desempenho
 - Sobreajuste de modelos
-
-Adicionado na segunda versão `v2`:
-- Problema de *Data Hungry* nos modelos de DL
-- Comparação de resultados com modelos mais clássicos
+- Problema de *Data Hungry* nos modelos de DL (adicionado versão `2`)
+- Comparação de resultados com modelos mais clássicos (adicionado versão `2`)
 
 O *notebook* contém todo o aprendizado mencionado usando `keras` em `tensorflow 2.0`. Modelos clássicos foram construídos através do `sklearn`
 
