@@ -12,5 +12,7 @@ Este repositório possui o intuito de apresentar na língua portuguesa práticas
 - :heavy_check_mark: [Segmentação Semântica](https://github.com/KaikeWesleyReis/praticas-deep-learning/tree/master/SEG_SEMANTICA_oxfordpet)
 - :heavy_check_mark: [Fully Connected Networks (FC)](https://github.com/KaikeWesleyReis/praticas-deep-learning/tree/master/FC_tabularClassificacao)
 
+**OBS** - Caso o notebook não carregue atualize a página (`F5`), pois isso é um *bug* do Github.
+
 ## **Documentações**
 - Manual de dicas na utilização de *Deep Learning* em visão computacional, para isso acesse o wiki deste repositório [aqui](https://github.com/KaikeWesleyReis/praticas-deep-learning/wiki/Manual-de-boas-pr%C3%A1ticas-para-Deep-Learning-em-vis%C3%A3o-computacional).
