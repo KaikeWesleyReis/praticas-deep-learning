@@ -1,8 +1,8 @@
-# Práticas & Teorias de Deep Learning com tensorflow 2
+# Práticas & Teorias de Deep Learning / LLM
 
 ![logos](https://github.com/KaikeWesleyReis/praticas-deep-learning/assets/32513366/ee7f1165-8f8c-4f61-8ccd-7839c2445f5e)
 
-Este repositório possui o intuito de apresentar na língua portuguesa práticas utilizando o framework ```tensorflow/keras``` e ```pytorch``` para modelos de aprendizado profundo. Além de uma implementação bem comentada, cada *notebook* contém uma explicação teórica a respeito daquele modelo, funcionando assim como uma breve introdução para este conteúdo.
+Este repositório possui o intuito de apresentar na língua portuguesa práticas utilizando o framework ```tensorflow/keras``` e ```pytorch``` para modelos de aprendizado profundo e práticas com LLM. Além de uma implementação bem comentada, cada *notebook* contém uma explicação teórica a respeito daquele modelo, funcionando assim como uma breve introdução para este conteúdo.
 
 **Motivação**: ausência de conteúdos deste tipo na língua portuguesa.
 
@@ -12,6 +12,7 @@ Este repositório possui o intuito de apresentar na língua portuguesa práticas
 - :heavy_check_mark: [Segmentação Semântica](https://github.com/KaikeWesleyReis/praticas-deep-learning/tree/master/SEG_SEMANTICA_oxfordpet)
 - :heavy_check_mark: [Fully Connected Networks (FC)](https://github.com/KaikeWesleyReis/praticas-deep-learning/tree/master/FC_tabularClassificacao)
 - :heavy_check_mark: [Text To Speech (TTS) com VITS](https://github.com/KaikeWesleyReis/praticas-deep-learning/tree/master/TTS_voiceHarbinger)
+- :heavy_check_mark: [Sistema de busca para e-Commerce usando método de RAG esparso (BM-25)](https://github.com/KaikeWesleyReis/praticas-deep-learning-llm/tree/master/RAG_ecommerce-challenge)
 
 **OBS** - Caso o notebook não carregue atualize a página (`F5`), pois isso é um *bug* do Github.
 
